@@ -92,3 +92,47 @@ img{
     padding-left: 10px;
     padding-top: 20px;
 }
+.container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.description-area{
+    width: 30%;
+    padding: 50px;
+    margin-left: 60px; 
+}
+.description-area img{
+    height: 350px;
+    width: 350px;
+}
+.contact-area{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.subscrib{
+    background-color: rgb(248, 238, 221);
+    height: 50px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 50px;
+}
+.footer{
+    background-color: black;
+    text-align: center
+    
+}
+.footer-note{
+    color: peru;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+}
+.wraper{
+    height: 150px;
+}
+.determination{
+    color: white;
+    font-weight: lighter;
+    
+}
